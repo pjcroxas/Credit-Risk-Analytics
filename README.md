@@ -1,2 +1,4 @@
 ## Financial Data Science
-To show my progress in learning financial concepts such as financial analysis, modeling, and evaluation
+These notebooks are based from DataCamp Financial Pathway. 
+This is to showcase my learning progress in Financial Analysis and Modeling. 
+
